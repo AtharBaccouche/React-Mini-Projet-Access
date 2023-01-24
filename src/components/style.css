@@ -1,0 +1,50 @@
+.styleCard
+{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Main
+{
+    padding: 150px;
+}
+.info
+{
+    padding:30px 0px 30px  0px;
+}
+.card
+{
+    width: 300px;
+    height: 200px !important;
+    box-shadow: 1px 3px grey;
+}
+.Title
+{
+    padding-top: 20px;
+}
+.totalAgent
+{
+    font-size: 40px;
+    color: rgb(0, 107, 180);
+}
+.activeAgent
+{
+    font-size: 40px;
+    color: rgb(0, 120, 113);
+}
+.disconnectedAgent
+{
+    font-size: 40px;
+    color: rgb(189, 39, 30);
+}
+.pendingAgent
+{
+    font-size: 40px;
+    color:rgb(254, 197, 20);
+}
+.neverConnected
+{
+    font-size: 40px;
+    color: rgb(100, 106, 119);
+}
